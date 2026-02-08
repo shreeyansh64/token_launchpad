@@ -16,7 +16,8 @@ A simple React-based launchpad to create and manage Solana SPL tokens.
 
 ## Getting Started
 ```bash
-git clone <repo-url>
-cd solana_token_launchpad
+git clone github.com/shreeyansh64/token_launchpad.git
+cd token_launchpad
 npm install
-npm start
+npm run dev
+```
