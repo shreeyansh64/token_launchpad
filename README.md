@@ -12,7 +12,7 @@ A simple React-based launchpad to create and manage Solana SPL tokens.
 - React.js
 - Solana Web3.js
 - SPL Token Library
-- Tailwind CSS / Styled Components (optional)
+- Tailwind CSS
 
 ## Getting Started
 ```bash
